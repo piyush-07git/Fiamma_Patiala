@@ -1,0 +1,11 @@
+{
+  "name":"Fiamma — The Wood Fired Pizzeria",
+  "short_name":"Fiamma",
+  "description":"Fiamma demo web app for Patiala",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#fffdf9",
+  "theme_color":"#102a43",
+  "orientation":"portrait-primary",
+  "icons":[{"src":"assets/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
